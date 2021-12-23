@@ -23,44 +23,28 @@ The purpose of this exercise demonstrated the use of various excel functions lik
 
 ### Challenges and Difficulties Encountered
 
- - Calclating number of outcomes involved complex function - COUNTIF
+ - Calculating number of outcomes involved complex function - COUNTIF
  - Creating pivot tables and chart for outcomes based on launch date was tricky due to the additional conversion
 
 ## Results
 
-<<<<<<< HEAD
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-=======
-**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
->>>>>>> 5b8c25ff0de51df9000e06719d40981f591742a3
-
  - More launches during spring and summer time will lead to more successful outcomes
  - ~37% failures were identified based on launch dates
 
-<<<<<<< HEAD
+
 - What can you conclude about the Outcomes based on Goals?
-
- - When goal amount is <1000 there is a very high chance of success with the outcomes
- - when goal is optimal then there is equal chance of failure and success.
-
-- What are some limitations of this dataset?
-=======
-**- What can you conclude about the Outcomes based on Goals?**
 
  - When goal amount is <1000 there is a very high chance of success with the outcomes
  - When goal is optimal then there is equal chance of failure and success.
 
-**- What are some limitations of this dataset?**
->>>>>>> 5b8c25ff0de51df9000e06719d40981f591742a3
+- What are some limitations of this dataset?
 
  - $ Value is not consistent due to currency, as a result ist hard to predict the outcomes
  - Outcome information is very limited as it doesnt tell on what criteria it was classified as successful/failed
 
-<<<<<<< HEAD
 - What are some other possible tables and/or graphs that we could create?
-=======
-**- What are some other possible tables and/or graphs that we could create?**
->>>>>>> 5b8c25ff0de51df9000e06719d40981f591742a3
+
  - outcomes based on parent category
  - outcomes based on country
  - outcomes based on pledged amount
