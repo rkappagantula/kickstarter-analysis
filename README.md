@@ -43,7 +43,7 @@ The purpose of this exercise demonstrated the use of various excel functions lik
  - $ Value is not consistent due to currency, as a result ist hard to predict the outcomes
  - Outcome information is very limited as it doesnt tell on what criteria it was classified as successful/failed
 
-- **What are some other possible tables and/or graphs that we could create?**
+**- What are some other possible tables and/or graphs that we could create?**
  - outcomes based on parent category
  - outcomes based on country
  - outcomes based on pledged amount
