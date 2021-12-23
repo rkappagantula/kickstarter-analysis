@@ -28,22 +28,22 @@ The purpose of this exercise demonstrated the use of various excel functions lik
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**- What are two conclusions you can draw about the Outcomes based on Launch Date?**
  - More launches during spring and summer time will lead to more successful outcomes
  - ~37% failures were identified based on launch dates
 
 
-- What can you conclude about the Outcomes based on Goals?
+**- What can you conclude about the Outcomes based on Goals?**
 
  - When goal amount is <1000 there is a very high chance of success with the outcomes
  - When goal is optimal then there is equal chance of failure and success.
 
-- What are some limitations of this dataset?
+**- What are some limitations of this dataset?**
 
  - $ Value is not consistent due to currency, as a result ist hard to predict the outcomes
  - Outcome information is very limited as it doesnt tell on what criteria it was classified as successful/failed
 
-- What are some other possible tables and/or graphs that we could create?
+**- What are some other possible tables and/or graphs that we could create?**
 
  - outcomes based on parent category
  - outcomes based on country
